@@ -1,2 +1,1 @@
-# WangDepiaoTest
-My first test program
+本仓库用来介绍Jlink工具下的RTT Viewer
